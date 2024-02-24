@@ -7,9 +7,6 @@ An addon for BTWCE 2.1.4 but will be updated for 3.0 as soon as the dev envirome
 - Reset ticks per second with R
 - Rebind keybinds in settings > controls
 - look really cool and display tps in the top left
-
-## Issues:
-- Not compatible with Translucency (my bad code has finally cought up to me)
  
 ## Installation
 Simply [Download](https://github.com/BTW-Community/Tool-Assisted-Skill-Addon/releases/) the latest Translucency.jar and place it in ``.minecraft\mods`` or drag and drop via multimc/prism ``Edit instance > loader mods``
