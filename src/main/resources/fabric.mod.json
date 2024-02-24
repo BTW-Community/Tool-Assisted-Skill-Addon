@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "tas",
+  "version": "${version}",
+
+  "name": "Tool Assisted Skill",
+  "description": "Become cracked, look like a pro",
+  "authors": [
+    "Polar Onyx"
+  ],
+  "contact": {
+    "homepage": "https://github.com/BTW-Community/TAS-Addon/",
+    "sources": "https://github.com/BTW-Community/TAS-Addon/"
+  },
+
+  "license": "MIT",
+  "icon": "TAS/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "init": [
+      "net.fabricmc.TAS.TASMod"
+    ],
+    "preLaunch": [
+      "net.fabricmc.TAS.TASPreLaunchInitializer"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
