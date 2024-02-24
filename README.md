@@ -1,4 +1,4 @@
-# ![logo](https://github.com/BTW-Community/Tool-Assisted-Skill-Addon/blob/main/src/main/resources/TAS/icon.png) Translucency-Addon
+# ![logo](https://github.com/BTW-Community/Tool-Assisted-Skill-Addon/blob/main/src/main/resources/TAS/icon.png) Tool-Assisted-Skill-Addon
 An addon for BTWCE 2.1.4 but will be updated for 3.0 as soon as the dev enviroment is avalible.
 
 ## Features:
