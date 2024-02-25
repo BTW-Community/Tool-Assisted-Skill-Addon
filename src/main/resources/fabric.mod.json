@@ -22,7 +22,6 @@
       "net.fabricmc.TAS.TASMod"
     ],
     "preLaunch": [
-      "net.fabricmc.TAS.TASPreLaunchInitializer"
     ]
   },
   "mixins": [
